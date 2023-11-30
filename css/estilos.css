@@ -1,0 +1,148 @@
+.nav-item {
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+}
+
+#Portada {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(63, 61, 61);
+    position: relative;
+    padding: 60px;
+    font-style: unset;
+    font-size: 45px;
+}
+
+#Biodigestor {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    position: relative;
+    padding: 30px;
+    font-style: oblique;
+}
+
+#Función {
+    text-align: right;
+    color: black;
+    background-color: white;
+    position: relative;
+    padding: 30px;
+    font-style: oblique;
+}
+
+#Materiales {
+    text-align: center;
+    color: black;
+    background-color: white;
+    position: relative;
+    padding: 30px;
+    font-style: oblique;
+}
+
+#col {
+    border: 1px solid black;
+    text-align: center;
+    color: black;
+    padding: 30px;
+    font-style: oblique;
+    font-size: larger;
+}
+
+#Renovación {
+    text-align: center;
+    color: black;
+    background-color: white;
+    position: relative;
+    padding: 30px;
+    font-style: oblique;
+}
+
+#Redes {
+    background-color: rgb(32, 32, 32);
+    position: relative;
+    font-style: oblique;
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+
+#Contacto {
+    text-align: left;
+    color: rgb(255, 255, 255);
+    background-color: rgb(63, 61, 61);
+    position: relative;
+    padding: 60px;
+    font-style: unset;
+    font-size: 40px;
+}
+
+#Información {
+    text-align: left;
+    color: black;
+    background-color: white;
+    position: relative;
+    padding: 30px;
+    font-style: oblique;
+}
+  
+#Comunidad {
+    text-align: left;
+    color: rgb(255, 255, 255);
+    background-color: rgb(63, 61, 61);
+    position: relative;
+    padding: 60px;
+    font-style: unset;
+    font-size: 40px;
+}
+
+#Empresas {
+    text-align: left;
+    color: black;
+    background-color: white;
+    position: relative;
+    padding: 30px;
+    font-style: oblique;
+}
+
+#Colaboradores {
+    text-align: left;
+    color: rgb(255, 255, 255);
+    background-color: rgb(63, 61, 61);
+    position: relative;
+    padding: 60px;
+    font-style: unset;
+    font-size: 40px;
+}
+
+#Número {
+    text-align: left;
+    color: black;
+    background-color: white;
+    position: relative;
+    padding: 30px;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#Preguntas {
+    text-align: left;
+    color: black;
+    background-color: white;
+    position: relative;
+    padding: 30px;
+    font-style: oblique;
+    font-size: 20px;
+} 
+
+#ONU {
+    text-align: left;
+    color: black;
+    background-color: white;
+    position: relative;
+    padding: 30px;
+    font-size: 30px;
+    font-style: oblique;
+}
